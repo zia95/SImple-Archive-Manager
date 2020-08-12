@@ -1,1 +1,3 @@
 ArchiveManager
+
+Simple archive manager for windows using sharpcompress c# library......
